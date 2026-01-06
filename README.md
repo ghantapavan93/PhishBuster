@@ -86,4 +86,4 @@ Each model was evaluated using metrics such as accuracy, precision, recall, F1-s
 
 ## Credits
 
-This project was created and maintained by **Afthab33**. Special thanks to the various open-source resources and datasets that contributed to the development of this project.
+This project was created and maintained by **ghantapavan93**. Special thanks to the various open-source resources and datasets that contributed to the development of this project.
